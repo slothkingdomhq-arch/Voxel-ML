@@ -1102,4 +1102,4 @@ tabs.info:AddLabel("Much Love!");
 tabs.info:AddLabel("");
 tabs.info.wLabel = tabs.info:AddLabel("Farming [V5]");
 tabs.info.wLabel.TextSize = 20;
-tabs.info.wLabel.Font = Enum.Font.Code;
+tabs.info.wLabel.Font = Enum.Font.Antique;
